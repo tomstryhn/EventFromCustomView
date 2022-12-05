@@ -27,6 +27,8 @@ Most administrators, investigators or supporters have at some point in time, mad
 
 Currently not published in PSGallery, so you have to download the Module and Import it the hard way... (Sorry)
 
+Works perfect with my [Event Viewer Custom Views](https://github.com/tomstryhn/EventViewerCustomViews), a small collection of useful Custom Views, both for security analysis and forensics.
+
 ## Examples
 
 Get a list of the Custom Views using the  `Get-EventViewerCustomViewXML`:
