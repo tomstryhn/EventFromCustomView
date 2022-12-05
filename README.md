@@ -53,9 +53,9 @@ PS C:\> Get-EventViewerCustomViewXML -Recurse | Sort-Object Name | Select-Object
 
 FileName   Name                                    Path
 --------   ----                                    ----
-01D97C.xml Administrator Logon (Failed)            C:\\CustomViews
-049517.xml Legacy Kerberos Ticket Encryption Types C:\\CustomViews
-0226D5.xml NTLMv1 Authentications                  C:\\CustomViews
+01D97C.xml Administrator Logon (Failed)            C:\CustomViews
+049517.xml Legacy Kerberos Ticket Encryption Types C:\CustomViews
+0226D5.xml NTLMv1 Authentications                  C:\CustomViews
 
 PS C:\> _
 
