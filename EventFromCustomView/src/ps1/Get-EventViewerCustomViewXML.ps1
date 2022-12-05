@@ -12,9 +12,9 @@
 
 .COPYRIGHT 2022 (c) Tom Stryhn
 
-.LICENSEURI https://github.com/tomstryhn/Get-EventViewerCustomViewXML/blob/main/LICENSE
+.LICENSEURI https://github.com/tomstryhn/EventFromCustomView/blob/main/LICENSE
 
-.PROJECTURI https://github.com/tomstryhn/Get-EventViewerCustomViewXML
+.PROJECTURI https://github.com/tomstryhn/EventFromCustomView
 
 #>
 function Get-EventViewerCustomViewXML {
