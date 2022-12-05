@@ -33,7 +33,7 @@ Get a list of the Custom Views using the  `Get-EventViewerCustomViewXML`:
 
 ```PowerShell
 
-PS C:\EventViewer> Get-EventViewerCustomViewXML -Recurse | Sort-Object Name
+PS C:\> Get-EventViewerCustomViewXML -Recurse | Sort-Object Name
 
 FileName   Name                                    Description
 --------   ----                                    -----------
@@ -65,7 +65,7 @@ Then get the Event wanted, using the `Get-EventFromCustomViewXML`:
 
 ```PowerShell
 
-PS C:\> Get-EventFromCustomViewXML .\01D97C.xml
+PS C:\> Get-EventFromCustomViewXML .\CustomViews\01D97C.xml
 
    ProviderName: Microsoft-Windows-Security-Auditing
 
