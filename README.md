@@ -6,8 +6,6 @@ PowerShell Module for using Microsoft Windows Event Viewer Custom Views for Even
 
   - [Version Changes](#version-changes)
   - [Background](#background)
-      - [Risk(s)](#risks)
-      - [Mitigation](#mitigation)
   - [Importing the Module](#importing-the-module)
   - [Examples](#examples)
   - [Functions](#functions)
